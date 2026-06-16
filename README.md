@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--Hi, I'm Dua-ul-Iman Muhammad Ali! 👋
+Hi, I'm Dua-ul-Iman Muhammad Ali! 👋
 ### 🛡️ Aspiring Cybersecurity Analyst & System Administrator 
 
 I am a Computer Science student passionate about securing infrastructure, analyzing threats, and managing enterprise environments. Currently advancing my specialized skills through the **CodeGirls Advanced Cybersecurity program**.
@@ -30,6 +30,4 @@ I am a Computer Science student passionate about securing infrastructure, analyz
 ### 📬 Connect With Me
 *   **LinkedIn:** [linkedin.com/in/dua-ul-iman](https://www.linkedin.com/in/dua-ul-iman)
 *   **Email:** duauliman203@gmail.com
-*
-- ⚡ Fun fact: ...
--->
+
