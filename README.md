@@ -29,5 +29,5 @@ I am a Computer Science student passionate about securing infrastructure, analyz
 
 ### 📬 Connect With Me
 *   **LinkedIn:** [linkedin.com/in/dua-ul-iman](https://www.linkedin.com/in/dua-ul-iman)
-*   **Email:** duauliman203@gmail.com
+
 
